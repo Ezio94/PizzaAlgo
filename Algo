@@ -1,0 +1,16 @@
+1. Decide which business to order from
+2. Decide which type of pizza to order
+3. Decide what toppings for the pizza
+4. Decide delivery or pick up
+    4a. delivery
+    4b. pick up
+5. Decide payment method
+    5a. Cash
+    5b. Card
+6. Delivery instructions
+    6a. Customers address
+    6b. Gate Code if any
+7. Pickup instructions
+    7a. Store location
+8. Order confirmation
+9. Eat your food!
