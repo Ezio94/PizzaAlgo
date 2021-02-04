@@ -8,9 +8,13 @@
     5a. Cash
     5b. Card
 6. Delivery instructions
-    6a. Customers address
+    6a. Customers information
+        6a1. Name
+        6a2. address
+        6a3. phone number
     6b. Gate Code if any
 7. Pickup instructions
     7a. Store location
 8. Order confirmation
 9. Eat your food!
+10. New order. Return to step 1.
